@@ -10,6 +10,7 @@ var score1 = 0, score2 =0;
 var paddle1Y;
 
 var  playerscore =0;
+var audio1;
 var pcscore =0;
 //ball x and y and speedx speed y and radius
 var ball = {
