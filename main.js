@@ -64,7 +64,7 @@ function gotPoses(results)
 
 function startGame()
 {
-  game_start = "start";
+  game_status = "start";
   document.getElementById("status").innerHTML = "game is loading";
 }
 
